@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#F5F5F5</color>
+    <color name="button_color">#6200EE</color>
+    <color name="card_border">#DDDDDD</color>
+    <color name="today_total_color">#FF5722</color>
+    <color name="month_total_color">#4CAF50</color>
+    <color name="footer_background">#FFFFFF</color>
+    <color name="footer_text_color">#757575</color>
+    <color name="colorAccent">#4CAF50</color> <!-- Light Green -->
+    <color name="colorPrimary">#2196F3</color> <!-- Blue -->
+    <color name="colorSecondary">#FF9800</color> <!-- Light Orange -->
+
+
+</resources>
