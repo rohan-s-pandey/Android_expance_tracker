@@ -19,7 +19,6 @@ public class ExpenseViewModel extends AndroidViewModel {
         allExpenses = repository.getAllExpenses();
         monthExpenses = repository.getMonthExpenses();
     }
-
     public LiveData<List<Expense>> getAllExpenses() {
         return allExpenses;
     }
