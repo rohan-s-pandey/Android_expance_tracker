@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\layout_activity_month_expense.xml.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\layout\\activity_month_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\layout_content_month_expense.xml.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\layout\\content_month_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.expancetracker.app-debug-47:/drawable_img.png.flat",
+        "source": "com.example.expancetracker.app-main-49:/drawable/img.png"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\drawable_baseline_history_24.xml.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\drawable\\baseline_history_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\layout_recyclerview_item.xml.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\layout\\recyclerview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\layout_item_month_expense.xml.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\layout\\item_month_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\drawable_baseline_share_24.xml.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\drawable\\baseline_share_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\drawable_img.png.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\drawable_nitin.png.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\drawable\\nitin.png"
+    },
+    {
+        "merged": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-debug-47:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\rohan\\.gradle\\daemon\\8.7\\com.example.expancetracker.app-main-49:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

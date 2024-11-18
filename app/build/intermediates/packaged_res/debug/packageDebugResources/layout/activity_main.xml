@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Input Fields -->
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/editTextAmount"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal"
+            android:hint="रूपय" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp">
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/editTextCategory"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="वर्ग" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/editTextDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="सामान या सेवा " />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/buttonAddExpense"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="जोड़ें"
+            android:backgroundTint="@color/colorAccent"
+        app:cornerRadius="8dp"
+        app:iconPadding="8dp"
+        app:iconTint="@color/white"
+        android:layout_marginHorizontal="5dp"
+        app:icon="@drawable/baseline_add_24"
+        style="@style/Widget.MaterialComponents.Button" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/buttonViewMonthExpenses"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="मासिक"
+            android:backgroundTint="@color/colorPrimary"
+        app:cornerRadius="8dp"
+        android:layout_marginHorizontal="5dp"
+        app:icon="@drawable/baseline_history_24"
+        style="@style/Widget.MaterialComponents.Button" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/buttonShareExpenses"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="भेजें"
+            android:backgroundTint="@color/colorSecondary"
+        app:cornerRadius="8dp"
+        app:iconPadding="8dp"
+        app:iconTint="@color/white"
+        android:layout_marginHorizontal="5dp"
+        app:icon="@drawable/baseline_share_24"
+        style="@style/Widget.MaterialComponents.Button" />
+
+    </LinearLayout>
+
+
+
+
+
+    <!-- Expense Totals -->
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        app:cardElevation="4dp"
+        app:cardCornerRadius="5dp"
+        app:contentPadding="16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewTodayTotal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="आज: ₹0.00"
+                android:textSize="18sp"
+                android:textColor="#FF0000"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:id="@+id/textViewMonthTotal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="इस महीने: ₹0.00"
+                android:textSize="18sp"
+                android:textColor="#03A9F4" />
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <!-- RecyclerView -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="16dp"
+        app:layoutManager="LinearLayoutManager"
+        tools:listitem="@layout/recyclerview_item" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="6dp">
+
+        <ImageView
+            android:id="@+id/circularImage"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/nitin" />
+
+        <TextView
+            android:id="@+id/imageDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/circularImage"
+            android:layout_alignBottom="@id/circularImage"
+            android:layout_marginStart="16dp"
+            android:text="This app was created by Rohan Pandey\nThis application is developed for personal use and is optimized for the Realme Narzo 60x 5G.\nIt requires a minimum screen width of 500dp for proper functionality."
+            android:textSize="6sp" />
+    </LinearLayout>
+
+
+
+</LinearLayout>
